@@ -31,4 +31,4 @@ The plugin is [on Clojars](http://clojars.org/lein-gwt) and Leiningen will grab 
 
 Copyright (C) 2010 Tero Parviainen
 
-Distributed under the MIT license (see [LICENSE](LICENSE)).
+Distributed under the MIT license (see [LICENSE](http://github.com/teropa/lein-gwt/blob/master/LICENSE)).
